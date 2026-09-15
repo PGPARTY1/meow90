@@ -20,6 +20,7 @@ flowchart LR
 
 | # | Guide | Description |
 |---|---|---|
+| 🎓 | [**Zero-to-Hero Self-Learning Masterclass**](./SELF_LEARNING_GUIDE.md) | **Start here if you want to learn!** Step-by-step tutorial modules, code analogies, and hands-on mini challenges. |
 | **01** | [**Project Overview & Architecture**](./01_PROJECT_OVERVIEW.md) | What this project does, why it was built, and the visual data-flow diagram. |
 | **02** | [**Tech Stack Explained (What, Why, How)**](./02_TECH_STACK_EXPLAINED.md) | Detailed breakdown of every tool (Next.js, Clerk, Prisma, NVIDIA AI, Tailwind, etc.). |
 | **03** | [**Folder & File Structure Guide**](./03_PROJECT_STRUCTURE.md) | Explains what every directory (`app/`, `components/`, `actions/`, `lib/`) does. |
