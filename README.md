@@ -10,6 +10,21 @@ A production-ready engineering workbench designed to benchmark candidate resumes
 
 ---
 
+## 📚 Beginner's Guide & Tech Documentation
+
+New to this project, or presenting it for an evaluation/interview? We've prepared comprehensive, beginner-friendly documentation in the [`docs/`](./docs/README.md) folder:
+
+| Guide | Description |
+|---|---|
+| 📖 [**Documentation Hub**](./docs/README.md) | Central index and reading guide for beginners. |
+| 🏗️ [**01. Project Overview & Architecture**](./docs/01_PROJECT_OVERVIEW.md) | What this project does and visual dataflow diagrams. |
+| 🛠️ [**02. Tech Stack Explained (What, Why, How)**](./docs/02_TECH_STACK_EXPLAINED.md) | Plain-English explanation of Next.js, Clerk, Prisma, NVIDIA AI, Tailwind, Web Speech API, etc. |
+| 🗂️ [**03. Project Structure Guide**](./docs/03_PROJECT_STRUCTURE.md) | Detailed file tree explaining what every directory and key file does. |
+| 🔍 [**04. How Features Work (Deep Dive)**](./docs/04_HOW_IT_WORKS_DEEP_DIVE.md) | Deep dive into PDF Parsing, AI ATS Scoring, and the Voice Rehearsal Terminal. |
+| 🎓 [**05. Setup, Troubleshooting & Viva Q&A**](./docs/05_BEGINNERS_SETUP_AND_FAQ.md) | Step-by-step setup guide, common fixes, and college viva/interview answers. |
+
+---
+
 ## Capabilities & Engineering Architecture
 
 ### 1. High-Precision PDF Resume Ingestion
